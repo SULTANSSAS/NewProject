@@ -10,7 +10,7 @@ public class Main {
         Person p1=new Person("Sultan");
         Person p2=new Person("Sultan");
         Set<Person> h=new HashSet<Person>();
-        System.out.println("New Changes made");
+        System.out.println("//New Changes made");
 h.add(p1);
 h.add(p2);
         System.out.println(h);
